@@ -2,6 +2,7 @@
 input/**
 *.pdf
 *.txt
+!requirements.txt
 **/patterns.txt
 
 .ruff_cache/
